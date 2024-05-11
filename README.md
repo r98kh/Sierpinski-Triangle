@@ -24,6 +24,7 @@ The Chaos Game is played on a polygon with at least 3 vertices. At each iteratio
 4. Create and activate a virtual environment (optional but recommended):
  
     python3 -m venv venv
+   
     source venv/bin/activate
 
 6. Install the required libraries:
