@@ -14,20 +14,24 @@ The Chaos Game is played on a polygon with at least 3 vertices. At each iteratio
 ## Usage
 
 1. Clone this repository:
+   
     https://github.com/r98kh/Sierpinski-Triangle.git
 
-2. Navigate to the cloned directory:
+3. Navigate to the cloned directory:
+   
     cd Sierpinski-Triangle
 
-3. Create and activate a virtual environment (optional but recommended):
+4. Create and activate a virtual environment (optional but recommended):
+ 
     python3 -m venv venv
-   
     source venv/bin/activate
 
-5. Install the required libraries:
+6. Install the required libraries:
+   
     pip install matplotlib
 
-6. Run the Python script:
+8. Run the Python script:
+   
     python main.py
 
 
